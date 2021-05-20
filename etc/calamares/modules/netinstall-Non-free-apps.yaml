@@ -23,3 +23,16 @@
     - lib32-nvidia-utils
     - optimus-manager
     - optimus-manager-qt
+- name: "Music and video"
+  description: "Music and video players"
+  hidden: false
+  selected: false
+  critical: false
+  expanded: true
+  packages:
+   - vlc
+   - handbrake
+   - mpd
+   - ncmpcpp
+   - pianobar
+   - mpv
