@@ -5,6 +5,7 @@
   critical: false
   expanded: true
   packages:
+   - lutris
    - wine-staging
    - steam
    - steam-native-runtime
