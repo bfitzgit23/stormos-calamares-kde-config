@@ -1,3 +1,3 @@
-# calamares-xfce-config
+# calamares-kde-config
 
-StormOS XFCE Calamares Config
+StormOS KDE Calamares Config
