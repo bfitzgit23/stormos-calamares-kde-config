@@ -6,7 +6,7 @@
   expanded: false
   packages:
    - sysconfig
-   - stormos-conf
+   - stormos-conf-kde
 
 - name: "apps"
   description: "optional apps"
