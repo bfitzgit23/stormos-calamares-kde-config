@@ -4,8 +4,8 @@
   selected: true
   critical: false
   expanded: false
-  packages:	
-   - stormos-conf-kde
+  packages:
+   - stormos-conf
 - name: "apps"
   description: "optional apps"
   hidden: false
