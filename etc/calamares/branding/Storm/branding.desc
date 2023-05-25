@@ -10,7 +10,7 @@ windowPlacement: center
 sidebar: qml,top
 
 strings:
-    productName:         "@{NAME}"
+    productName:         StormOS
     shortProductName:    StormOS
     version:             rolling Rolling
     shortVersion:        rolling
